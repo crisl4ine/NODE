@@ -1,0 +1,15 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Crislaine Siqueira",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
